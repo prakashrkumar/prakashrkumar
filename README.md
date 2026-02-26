@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAHCZwD-st0/QRr5tkHH8ANjnMbPocchFg/edit?utm_content=DAHCZwD-st0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/prakashrkumar/prakashrkumar/blob/main/Github%20Banner%2Cpng)
 <h1 align="center">Hi 👋, I'm Prakash Kumar</h1>
 <h3 align="center">A  Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
