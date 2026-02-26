@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashrkumar&label=Profile%20views&color=0e75b6&style=flat" alt="prakashrkumar" /> </p>
 
-- 🔭 I’m currently working on **Plant Profile**
+- 🔭 I’m currently working on **Solar Plant as Full (MERN) Stack developer**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prakashfullstackdeveloper/](https://www.linkedin.com/in/prakashfullstackdeveloper/)
 
