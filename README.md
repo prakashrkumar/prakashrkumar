@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAHCXD3Tx_U/BbeAiVE2R4okfVWNlL8KRw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0)
+![logo](C:\Users\prakash kumar\Downloads\Teal and Black Modern Programmer New LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Prakash Kumar</h1>
 <h3 align="center">A  Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
