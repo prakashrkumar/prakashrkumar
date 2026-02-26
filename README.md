@@ -1,11 +1,11 @@
-![logo](C:\Users\prakash kumar\Downloads\Teal and Black Modern Programmer New LinkedIn Banner.png)
+![logo](https://www.canva.com/design/DAHCZwD-st0/MR_lAwtv8S5LwlRFT4m6cg/view?utm_content=DAHCZwD-st0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hed5ca28063)
 <h1 align="center">Hi 👋, I'm Prakash Kumar</h1>
 <h3 align="center">A  Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashrkumar&label=Profile%20views&color=0e75b6&style=flat" alt="prakashrkumar" /> </p>
 
-- 🔭 I’m currently working on **Solar Plant as Full (MERN) Stack developer**
+- 🔭 I’m currently working on **Solar Plant as a Full (MERN) Stack developer**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prakashfullstackdeveloper/](https://www.linkedin.com/in/prakashfullstackdeveloper/)
 
